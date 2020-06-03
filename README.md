@@ -1,7 +1,6 @@
 # echo-swagger
 
-echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
-
+echo v3 middleware to automatically generate RESTful API documentation with Swagger 2.0.
 [![Travis branch](https://img.shields.io/travis/swaggo/echo-swagger/master.svg)](https://travis-ci.org/swaggo/echo-swagger)
 [![Codecov branch](https://img.shields.io/codecov/c/github/swaggo/echo-swagger/master.svg)](https://codecov.io/gh/swaggo/echo-swagger)
 [![Go Report Card](https://goreportcard.com/badge/github.com/swaggo/echo-swagger)](https://goreportcard.com/report/github.com/swaggo/echo-swagger)
