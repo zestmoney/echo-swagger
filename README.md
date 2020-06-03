@@ -20,7 +20,7 @@ $ swag init
 ```
 4. Download [echo-swagger](https://github.com/swaggo/echo-swagger) by using:
 ```sh
-$ go get -u github.com/swaggo/echo-swagger
+$ go get -u github.com/enggrobinsingh/echo-swagger
 ```
 
 And import following in your code:
