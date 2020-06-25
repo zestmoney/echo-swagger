@@ -17,7 +17,7 @@ $ swag init
 ```
 4. Download [echo-swagger](https://github.com/RobinSinghS/echo-swagger) by using:
 ```sh
-$ go get -u github.com/RobinSinghS/echo-swagger
+$ go get -u github.com/RobinSinghS/echo-swagger@1.0.2
 ```
 
 And import following in your code:
